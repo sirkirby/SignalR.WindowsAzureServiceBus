@@ -17,7 +17,6 @@
 using System;
 using Microsoft.WindowsAzure.ServiceRuntime;
 using SignalR.Infrastructure;
-using SignalR.MessageBus;
 
 namespace SignalR.WindowsAzureServiceBus
 {

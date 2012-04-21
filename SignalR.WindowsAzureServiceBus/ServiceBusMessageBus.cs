@@ -24,7 +24,6 @@ namespace SignalR.WindowsAzureServiceBus
     using System.Threading.Tasks;
     using Microsoft.ServiceBus;
     using Microsoft.ServiceBus.Messaging;
-    using SignalR.MessageBus;
 
     /// <summary>
     ///   This class implements signaling scale-out for SignalR through the Service Bus. 

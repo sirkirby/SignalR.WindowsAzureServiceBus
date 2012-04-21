@@ -19,7 +19,6 @@ namespace SignalR.WindowsAzureServiceBus
     using System;
     using System.Collections.Generic;
     using System.Threading;
-    using SignalR.MessageBus;
 
     public partial class ServiceBusMessageBus
     {
