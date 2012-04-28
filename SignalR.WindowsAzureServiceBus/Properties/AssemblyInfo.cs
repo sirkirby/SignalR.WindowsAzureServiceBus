@@ -5,7 +5,7 @@ using System.Runtime.InteropServices;
 
 [assembly: AssemblyTitle("SignalR.WindowsAzureServiceBus")]
 [assembly: AssemblyDescription("Windows Azure Service Bus MessageBus implementation for SignalR")]
-[assembly: AssemblyCompany("Microsoft IT")]
+[assembly: AssemblyCompany("Microsoft")]
 [assembly: AssemblyProduct("SignalR.WindowsAzureServiceBus")]
 [assembly: AssemblyCopyright("Copyright © Microsoft")]
 
